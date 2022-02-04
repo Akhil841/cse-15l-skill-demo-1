@@ -5,6 +5,6 @@ import org.junit.*;
 public class Demotest {
 	@Test
 	public void testDemo() {
-		assertEquals(9, Demo.returns7());
+		assertEquals(7, Demo.returns7());
 	}
 }
